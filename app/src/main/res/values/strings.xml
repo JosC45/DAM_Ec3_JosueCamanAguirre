@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Dam_Ec3_JosueCamanAguirre</string>
+    <string name="textview_correo">Correo Electronico</string>
+    <string name="input_correoI" />
+    <string name="textview_contraseñaI">Contraseña</string>
+    <string name="input_contraI" />
+    <string name="button_Entrar">Entrar</string>
+    <string name="textview">Registrate</string>
+    <string name="textview2d">Es grtis y lo seguira siendo</string>
+    <string name="textview___2">Es gratis y lo seguira siendo</string>
+    <string name="textview_nombre">Nombre:</string>
+    <string name="input_nombre" />
+    <string name="input_apellidos">Apellidos:</string>
+    <string name="input_apellido" />
+    <string name="textview_correo1">Tu direccion de correo electronico</string>
+    <string name="input_correo" />
+    <string name="textview_cont">Contraseña nueva</string>
+    <string name="input_cont" />
+    <string name="textview_sex">Sexo:</string>
+    <string name="input_sex" />
+    <string name="textview_fecha">Fecha de nacimiento:</string>
+    <string name="input_fecha" />
+    <string name="btn_registrase">Registrate</string>
+    <string name="radibtn_olvide">No cerrar sesion</string>
+    <string name="textview_contra">Has olvidado tu contraseña</string>
+    <string name="rdbtn_Maculino" />
+    <string name="rdbtn_masc">Masculino</string>
+    <string name="rdbtn_Femenino">Femenino</string>
+    <string name="txt_final">Crea una pagina para un famoso,grupo de musicas o empresa</string>
+</resources>
